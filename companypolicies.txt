@@ -1,3 +1,4 @@
+################################################################################
 1.	Code of Conduct
 
 Our Code of Conduct outlines the fundamental principles and ethical standards that guide every member of our organization. We are committed to maintaining a workplace that is built on integrity, respect, and accountability.
